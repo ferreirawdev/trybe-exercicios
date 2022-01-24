@@ -21,7 +21,7 @@ O Unix é um sistema operacional popular que foi lançado em 1969 e ganhou muita
 
 ##
 
-# Por que isso é importante?
+## Por que isso é importante?
 
 No desenvolvimento de software, é muito importante que você entenda como interagir de forma eficiente com o sistema operacional no qual você vai programar. Isso te poupará tempo e permitirá ser uma pessoa mais produtiva. Para isso, é primordial que você saiba os principais comandos que podem ser utilizados no terminal.
 

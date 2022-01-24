@@ -1,0 +1,4 @@
+- Dia 01: Apresentação - Parte 1
+- Dia 02: Apresentação - Parte 2
+- Dia 03: Unix & Bash - Parte 1
+- Dia 04: Unix & Bash - Parte 2

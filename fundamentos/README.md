@@ -1,4 +1,4 @@
-- Bloco 01: Unix & Bash
+- Bloco 01: Unix & Bash :heavy_check_mark:
 - Bloco 02: Git, GitHub e Internet
 - Bloco 03: Introdução à HTML e CSS
 - Bloco 04: Introdução à JavaScript e Lógica de Programação

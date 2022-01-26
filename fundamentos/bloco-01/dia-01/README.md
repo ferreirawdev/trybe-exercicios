@@ -1,4 +1,4 @@
-# Agenda do dia
+## Agenda do dia
 
 - Boas-vindas + Sobre a Trybe
 - O que vamos aprender

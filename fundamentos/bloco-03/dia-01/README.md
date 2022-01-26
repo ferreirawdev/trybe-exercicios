@@ -5,7 +5,7 @@ Para trabalhar com desenvolvimento de software web, você vai precisar de um só
 Na primeira parte da sua jornada através do **HTML & CSS**, você vai aprender na prática como utilizar _HTML_ para estruturar páginas web.
 
 
-## Serei capaz de:
+## Você será capaz de:
 
 - Estruturar páginas web com HTML utilizando as tags `html`, `head` e `body`;
 - Utilizar o HTML para estruturar textos e títulos;

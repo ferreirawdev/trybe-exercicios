@@ -19,4 +19,4 @@ Como uma pessoa que irá desenvolver software para a internet, conhecer o seu fu
 
 É importante ter uma noção de como a rede da internet é estruturada, pois quando você for pensar no design de uma aplicação web, por exemplo, terá que considerar fatores como a latência da rede, a geolocalização dos servidores, a velocidade e/ou disponibilidade de conexão dos usuários, enfim. 🔮
 
-Atualmente, a grande maioria das aplicações web são desenvolvidas usando o modelo **Cliente & Servidor** . Você precisa entender esse modelo para entender como o software que você irá desenvolver se encaixa nele. Você precisa, em suma, saber como os servidores funcionam, para quando for colocar um projeto "no ar", ou "em produção". 🖥
+Atualmente, a grande maioria das aplicações web são desenvolvidas usando o modelo _Cliente & Servidor_. Você precisa entender esse modelo para entender como o software que você irá desenvolver se encaixa nele. Você precisa, em suma, saber como os servidores funcionam, para quando for colocar um projeto "no ar", ou "em produção". 🖥

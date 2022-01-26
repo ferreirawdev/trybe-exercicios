@@ -1,0 +1,4 @@
+- Dia 01 (17/01): Apresentação - Parte 1 :heavy_check_mark:
+- Dia 02 (18/01): Apresentação - Parte 2 :heavy_check_mark:
+- Dia 03 (19/01): Unix & Bash - Parte 1 :heavy_check_mark:
+- Dia 04 (20/01): Unix & Bash - Parte 2 :heavy_check_mark:

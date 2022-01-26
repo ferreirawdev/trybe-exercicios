@@ -1,4 +1,4 @@
-# Agenda do dia
+## Agenda do dia
 
 - Metodologias ativas
 - Kahoot + Código de Ética e Manual da Pessoa Estudante

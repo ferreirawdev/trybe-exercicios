@@ -17,8 +17,8 @@ Agora, se você ainda não está confiante nas suas habilidades jedi com a tela 
 
 ## Por que isso é importante?
 
-Conhecer variáveis de ambiente e saber como usá-las no seu código é uma das principais habilidades que você irá usar para trazer flexibilidade e segurança em seu código. Imagine que você precisa fazer um script que se conecte com uma máquina remota, e precise de usuário e senha. Você colocaria a senha direto no script? 🤔
+Conhecer variáveis de ambiente e saber como usá-las no seu código é uma das principais habilidades que você irá usar para trazer flexibilidade e segurança em seu código. Imagine que você precisa fazer um _script_ que se conecte com uma máquina remota, e precise de usuário e senha. Você colocaria a senha direto no _script_? 🤔
 
 Quando se trabalha usando o terminal, cada comando que você digita é executado dentro de um processo. Então é importante saber como você pode se comunicar com tais processos quando, por exemplo, quiser terminar a execução de algum que está travado. 🔫
 
-Conhecer sobre permissões é uma outra habilidade importante para garantir que os arquivos que você manipula na máquina (códigos, configurações, etc) não sejam alterados ou executados por pessoas indesejadas. 🔐
+Conhecer sobre permissões é uma outra habilidade importante para garantir que os arquivos que você manipula na máquina (_códigos_, _configurações_, _etc_) não sejam alterados ou executados por pessoas indesejadas. 🔐

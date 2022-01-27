@@ -1,3 +1,3 @@
-- Dia 01 (21/01): Git & GitHub - O que é e para que serve :heavy_check_mark:
-- Dia 02 (24/01): Entendendo os comandos :heavy_check_mark:
-- Dia 03 (25/01): Internet - Entendendo como ela funciona :heavy_check_mark:
+- :heavy_check_mark: Dia 01 (21/01): Git & GitHub - O que é e para que serve 
+- :heavy_check_mark: Dia 02 (24/01): Git & GitHub - Entendendo os comandos
+- :heavy_check_mark: Dia 03 (25/01): Internet - Entendendo como ela funciona

@@ -20,7 +20,7 @@ Os principais pontos abordados serão:
 - Como iniciar um repositório local?
 - O que é o **GitHub**?
 - Como subir seu repositório local para o **GitHub**?
-- O que é `Branch`, `Merge`, `Commit`?
+- O que é _Branch_, _Merge_, _Commit_?
 
 
 ## Você será capaz de:
@@ -35,6 +35,6 @@ Os principais pontos abordados serão:
 
 Entender como funciona e colocar em prática o **Git** em seus projetos é crucial no dia a dia de quem trabalha com desenvolvimento de software. O **Git** é o mecanismo de controle de versão mais popular e, por consequência, a chance de você trabalhar com ele é bem alta.
 
-Utilizando o **Git**, você e seu time vão conseguir colaborar de forma assíncrona e harmoniosa, ganhando produtividade no momento de "juntar as partes" que cada um fez e tendo segurança de que todo o trabalho realizado está salvo. Estar salvo depende de você sempre dar "push" (enviar as alterações para o repositório online) antes de sair com seu computador por aí, né? 😊
+Utilizando o **Git**, você e seu time vão conseguir colaborar de forma assíncrona e harmoniosa, ganhando produtividade no momento de _"juntar as partes"_ que cada um fez e tendo segurança de que todo o trabalho realizado está salvo. Estar salvo depende de você sempre dar _"push"_ (enviar as alterações para o repositório online) antes de sair com seu computador por aí, né? 😊
 
-O **GitHub**, ferramenta online que hospeda repositórios **Git**, é uma excelente ferramenta para toda a gestão do seu código, tendo recursos para acompanhamento de projeto ágil de software, controle de Issues , quadros Kanban , Pull Requests que permitem um Code Review mais bem feito, entre outras dezenas de integrações que vão facilitar sua vida com desenvolvimento de software.
+O **GitHub**, ferramenta online que hospeda repositórios **Git**, é uma excelente ferramenta para toda a gestão do seu código, tendo recursos para acompanhamento de projeto ágil de software, controle de Issues , quadros _Kanban_, _Pull Requests_ que permitem um _Code Review_ mais bem feito, entre outras dezenas de integrações que vão facilitar sua vida com desenvolvimento de software.

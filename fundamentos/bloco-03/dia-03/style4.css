@@ -26,3 +26,43 @@ div:nth-of-type(4) {
 div:nth-of-type(5) {
   color: #DCDCDC;
 }
+
+h3:nth-of-type(1) {
+  margin: 10px;
+  padding: 10px;
+  font-size: large;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 100;
+}
+
+h3:nth-of-type(2) {
+  margin: 20px;
+  padding: 20px;
+  font-size: small;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 200;
+}
+
+h3:nth-of-type(3) {
+  margin: 30px;
+  padding: 30px;
+  font-size: medium;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 300;
+}
+
+h3:nth-of-type(4) {
+  margin: 40px;
+  padding: 40px;
+  font-size: smaller;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 400;
+}
+
+h3:nth-of-type(5) {
+  margin: 50px;
+  padding: 50px;
+  font-size: larger;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 500;
+}

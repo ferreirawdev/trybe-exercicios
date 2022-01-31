@@ -27,7 +27,7 @@ div:nth-of-type(5) {
   color: #DCDCDC;
 }
 
-h3:nth-of-type(1) {
+div:nth-of-type(1) > h3 {
   margin: 10px;
   padding: 10px;
   font-size: large;
@@ -35,7 +35,7 @@ h3:nth-of-type(1) {
   font-weight: 100;
 }
 
-h3:nth-of-type(2) {
+div:nth-of-type(2) > h3 {
   margin: 20px;
   padding: 20px;
   font-size: small;
@@ -43,7 +43,7 @@ h3:nth-of-type(2) {
   font-weight: 200;
 }
 
-h3:nth-of-type(3) {
+div:nth-of-type(3) > h3 {
   margin: 30px;
   padding: 30px;
   font-size: medium;
@@ -51,7 +51,7 @@ h3:nth-of-type(3) {
   font-weight: 300;
 }
 
-h3:nth-of-type(4) {
+div:nth-of-type(4) > h3 {
   margin: 40px;
   padding: 40px;
   font-size: smaller;
@@ -59,7 +59,7 @@ h3:nth-of-type(4) {
   font-weight: 400;
 }
 
-h3:nth-of-type(5) {
+div:nth-of-type(5) > h3 {
   margin: 50px;
   padding: 50px;
   font-size: larger;

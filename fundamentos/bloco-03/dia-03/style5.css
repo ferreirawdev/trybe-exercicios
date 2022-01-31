@@ -30,3 +30,7 @@ li em {
 #lang li:not(:nth-child(n + 4)) {
     color: blue;
 }
+
+.bgPink {
+    background-color: pink;
+}

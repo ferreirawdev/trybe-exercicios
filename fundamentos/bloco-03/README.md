@@ -1,8 +1,9 @@
 - :heavy_check_mark: Dia 01 (26/01): Introdução - HTML & CSS
 - :heavy_check_mark: Dia 01 (26/01): HTML & CSS - Estruturas de página
 - :heavy_check_mark: Dia 02 (27/01): HTML & CSS - Primeiros passos em CSS
-- <!--:heavy_check_mark:--> Dia 03 (28/01): HTML & CSS - Seletores e posicionamento
-- <!--:heavy_check_mark:--> Dia 04 (31/01): Projeto - Lessons Learned
+- :heavy_check_mark: Dia 03 (28/01): HTML & CSS - Seletores e posicionamento
+- <!--:heavy_check_mark:--> Dia 04 (31/01): HTML Semântico
+- <!--:heavy_check_mark:--> Dia 05 (31/01): Projeto - Lessons Learned
 
 ## O que vamos aprender?
 

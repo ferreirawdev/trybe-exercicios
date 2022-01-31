@@ -1,7 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 .super-mario {
-  width: 75px;
+  width: 100px;
   position: absolute;
-  top: 75;
+  top: 85px;
   left: 20px;
   z-index: 1;
 }
@@ -17,6 +22,7 @@
 .baloon {
   width: 200px;
   position: absolute;
+  top: 40px;
   left: 150px;
   z-index: 4;
 }
@@ -24,6 +30,7 @@
 .speach {
   font-size: 25px;
   position: absolute;
+  top: 60px;
   left: 175px;
   z-index: 5;
   text-align: center;

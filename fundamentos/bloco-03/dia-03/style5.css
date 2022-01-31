@@ -34,3 +34,27 @@ li em {
 .bgPink {
     background-color: pink;
 }
+
+#ally li a:hover {
+    font-weight: 700;
+}
+  
+#ally li a[href*="stackoverflow"] {
+    color: orange;
+}
+  
+#ally li a[href*="w3schools"] {
+    color: green;
+}
+  
+#ally li a[href*="mozilla"] {
+    color: black;
+}
+  
+#ally li a[href*="devdocs"] {
+    color: yellow;
+}
+  
+#ally li a[href*="trybe"] {
+    color: green;
+}

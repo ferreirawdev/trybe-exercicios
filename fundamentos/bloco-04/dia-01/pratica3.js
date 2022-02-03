@@ -8,6 +8,8 @@ if (nota >= 80) {
     console.log('Você foi reprovada(o)');
 }
 
+// -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
 const nota2 = 70;
 
 if (nota2 >= 80) {
@@ -17,6 +19,8 @@ if (nota2 >= 80) {
 } else {
     console.log('Você foi reprovada(o)');
 }
+
+// -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
 
 const nota3 = 40;
 

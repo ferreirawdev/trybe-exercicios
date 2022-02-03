@@ -1,0 +1,16 @@
+## O que vamos aprender?
+
+Nesta segunda parte sobre **_JavaScript_**, você aprenderá duas das principais estruturas de dados disponíveis na linguagem e algumas das formas de iterar sobre elas.
+
+Vamos avançar nossos conhecimentos e entender mais sobre `Array` e `For`.
+
+## Você será capaz de:
+
+- Manipular arrays (listas);
+- Utilizar o comando `for`;
+
+## Por que isso é importante?
+
+A manipulação de _Arrays_ estará presente em toda sua carreira como pessoa desenvolvedora. Você irá usar arrays frequentemente para armazenar os dados que achar necessário.
+
+Concentre-se em entender ao máximo o conceito de Array e como manipulá-los, pois essa base será importante para avançar seu conhecimento.

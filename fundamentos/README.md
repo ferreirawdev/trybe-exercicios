@@ -1,6 +1,6 @@
 - :heavy_check_mark: Bloco 01: Unix & Bash
 - :heavy_check_mark: Bloco 02: Git, GitHub e Internet
-- <!--:heavy_check_mark:--> Bloco 03: Introdução à HTML e CSS
+-  Bloco 03: Introdução à HTML e CSS
 - <!--:heavy_check_mark:--> Bloco 04: Introdução à JavaScript e Lógica de Programação
 - <!--:heavy_check_mark:--> Bloco 05: JavaScript: DOM, Eventos e Web Storage
 - <!--:heavy_check_mark:--> Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo

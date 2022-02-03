@@ -1,10 +1,10 @@
-// Variáveis de nota da pratica3.js
+/* -- Variáveis de nota da pratica3.js -- */
 
 const nota = 90;
 const nota2 = 70;
 const nota3 = 40;
 
-// -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+/* ------------------------------ */
 
 let estadoCandidata;
 let estadoCandidata2;

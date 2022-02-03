@@ -9,8 +9,8 @@ console.log(birthYear);
 birthYear = '2030';
 console.log(birthYear);
 
-/* O erro no código abaixo acontece porque 'birthCity' é uma constante,
-não podendo ter seu valor alterado */
+/* O erro no código abaixo acontece porque 'birthCity'
+é uma constante, não podendo ter seu valor alterado */
 
 birthCity = 'Curitiba';
 console.log(birthCity);

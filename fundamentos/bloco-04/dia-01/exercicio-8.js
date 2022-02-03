@@ -12,13 +12,13 @@ if ((num1 % 2) === 0) {
     console.log('false');
 }
 
-/* -*-*-*-*-* Bônus -*-*-*-*-*- */
+/* ---------- Bônus ---------- */
 if ((num1 % 2) === 0 || (num2 % 2) === 0 || (num3 % 2) === 0) {
     console.log('true');
 } else {
     console.log('false');
 }
-/* -*-*-*-*-* Bônus -*-*-*-*-*- */
+/* ---------- Bônus ---------- */
 
 const num4 = 81;
 const num5 = 38;

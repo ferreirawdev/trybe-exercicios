@@ -11,7 +11,7 @@ console.log(typeof patientAge);
 patientId = '50';
 console.log(typeof patientId);
 
-// -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+/* ------------------------------ */
 
 const base = 5;
 let height = 8;

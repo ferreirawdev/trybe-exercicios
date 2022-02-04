@@ -62,3 +62,5 @@ for (i = 0; i < numbers.length; i += 1){
         newNumbers.push(numbers[i] * 2);
     }
 }
+
+console.log(newNumbers);

@@ -1,4 +1,5 @@
-// Leia atentamente os enunciados e faça o que se pede! Iremos utilizar esse array para realizar os exercícios do 1 ao 7:
+// Leia atentamente os enunciados e faça o que se pede!
+// Iremos utilizar esse array para realizar os exercícios do 1 ao 7:
 
 let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
 let i; // Já deixa o contador declarado
@@ -37,7 +38,9 @@ let media = soma/(numbers.length - 1);
 console.log(media);
 
 /* --------------- Exercício 4 --------------- */
-// Com o mesmo código do exercício anterior, caso o valor final seja maior que 20, imprima a mensagem: "valor maior que 20". Caso não seja, imprima a mensagem: "valor menor ou igual a 20";
+// Com o mesmo código do exercício anterior, caso o valor final seja maior que 20,
+// imprima a mensagem: "valor maior que 20". Caso não seja, imprima a mensagem:
+// "valor menor ou igual a 20";
 
 if (media > 20){
     console.log('valor maior que 20');
@@ -59,7 +62,8 @@ for (i = 0; i < numbers.length; i += 1){
 console.log(maior);
 
 /* --------------- Exercício 6 --------------- */
-// Descubra quantos valores ímpares existem no array e imprima o resultado. Caso não exista nenhum, imprima a mensagem: "nenhum valor ímpar encontrado";
+// Descubra quantos valores ímpares existem no array e imprima o resultado.
+// Caso não exista nenhum, imprima a mensagem: "nenhum valor ímpar encontrado";
 
 let impares = 0;
 
@@ -76,7 +80,7 @@ if (impares > 0){
 }
 
 /* --------------- Exercício 7 --------------- */
-// Utilizando for , descubra qual o menor valor contido no array e imprima-o;
+// Utilizando for, descubra qual o menor valor contido no array e imprima-o;
 
 let menor = maior;
 

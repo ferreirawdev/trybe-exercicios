@@ -1,8 +1,8 @@
 - :heavy_check_mark: Dia 01 (02/02): Introdução - JavaScript
 - :heavy_check_mark: Dia 01 (02/02): JavaScript - Primeiros Passos
 - :heavy_check_mark: Dia 02 (03/02): JavaScript - Array e loop For
-- <!--:heavy_check_mark:--> Dia 03 (04/02): JavaScript - Lógica de Programação e Algoritmos
-- <!--:heavy_check_mark:--> Dia 04 (07/02): JavaScript - Objetos e Funções
+- :heavy_check_mark: Dia 03 (04/02): JavaScript - Lógica de Programação e Algoritmos
+- :heavy_check_mark: Dia 04 (07/02): JavaScript - Objetos e Funções
 - <!--:heavy_check_mark:--> Dia 05 (08/02): Projeto - Playground Functions
 
 ## O que vamos aprender?

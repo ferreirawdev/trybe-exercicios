@@ -1,4 +1,4 @@
-// Declaração da variável de controle dos laços for
+// Declaração das variáveis de controle dos laços for
 let i;
 let j;
 

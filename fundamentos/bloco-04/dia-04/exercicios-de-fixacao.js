@@ -69,3 +69,45 @@ let car = {
 for (let key in car){
     console.log(key + ': ' + car[key]);
 }
+
+/* ----------------- FUNÇÕES ----------------- */
+/* --------------- Exercício 1 --------------- */
+// Dia 4.1 - Exercício 1
+
+// const a = 72;
+// const b = 18;
+
+/* ---------- Programa 1 ---------- */
+// console.log(a + b);
+
+/* ---------- Programa 2 ---------- */
+// console.log(a - b);
+
+/* ---------- Programa 3 ---------- */
+// console.log(a * b);
+
+/* ---------- Programa 4 ---------- */
+// console.log(a / b);
+
+/* ---------- Programa 5 ---------- */
+// console.log(a % b);
+
+function soma(a, b){
+    return a + b;
+}
+
+function subtracao(a, b){
+    return a - b;
+}
+
+function multiplicacao(a, b){
+    return a * b;
+}
+
+function divisao(a, b){
+    return a / b;
+}
+
+function modulo(a, b){
+    return a % b;
+}

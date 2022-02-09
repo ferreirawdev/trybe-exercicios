@@ -36,7 +36,7 @@ O programa conta com mais de 1.500 horas de aulas online ao vivo, aborda introdu
 - :heavy_check_mark: 1: _JavaScript - Primeiros passos_
 - :heavy_check_mark: 2: _JavaScript - Array e loop For_
 - :heavy_check_mark: 3: _JavaScript - Lógica de Programação e Algoritmos_
-- [ ] 4: _JavaScript - Objetos e funções_
+- :heavy_check_mark: 4: _JavaScript - Objetos e funções_
 - [ ] 5: _[Projeto - Playground Functions]()_
 
 #### Bloco 5: JavaScript: DOM, Eventos e Web Storage

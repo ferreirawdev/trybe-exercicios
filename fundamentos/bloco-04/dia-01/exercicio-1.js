@@ -7,11 +7,11 @@ console.log(a + b);
 /* ---------- Programa 2 ---------- */
 console.log(a - b);
 
-/* ---------- Programa 1 ---------- */
+/* ---------- Programa 3 ---------- */
 console.log(a * b);
 
-/* ---------- Programa 1 ---------- */
+/* ---------- Programa 4 ---------- */
 console.log(a / b);
 
-/* ---------- Programa 1 ---------- */
+/* ---------- Programa 5 ---------- */
 console.log(a % b);

@@ -58,7 +58,8 @@ for (let name in names){
 }
 
 /* --------------- Exercício 2 --------------- */
-// Usando o objeto abaixo, utilize for/in e imprima um console.log com as chaves e valores desse objeto.
+// Usando o objeto abaixo, utilize for/in e imprima um console.log
+// com as chaves e valores desse objeto.
 
 let car = {
     model: 'A3 Sedan',
@@ -71,8 +72,12 @@ for (let key in car){
 }
 
 /* ----------------- FUNÇÕES ----------------- */
+// Para esses exercícios, você deve refazer os exercícios de 1 a 5 do dia 4.1.
+
 /* --------------- Exercício 1 --------------- */
-// Dia 4.1 - Exercício 1
+// Faça cinco programas, um para cada operação aritmética básica.
+// Seu programa deve ter duas constantes, a e b,
+// definidas no começo com os valores que serão operados.
 
 // const a = 72;
 // const b = 18;
@@ -110,4 +115,66 @@ function divisao(a, b){
 
 function modulo(a, b){
     return a % b;
+}
+
+/* --------------- Exercício 2 --------------- */
+// Faça um programa que retorne o maior de dois números.
+// Defina, no começo do programa, duas constantes com os
+// valores que serão comparados.
+
+function maiorNumero (num1, num2){
+    if (num1 > num2){
+        return num1;
+    } else {
+        return num2;
+    }
+}
+
+/* --------------- Exercício 3 --------------- */
+// Faça um programa que retorne o maior de três números.
+// Defina, no começo do programa, três constantes com os
+// valores que serão comparados.
+
+function maiorDeTres(num1, num2, num3){
+    if (num1 > num2 && num1 > num3){
+        return num1;
+    } else if (num2 > num1 && num2 > num3){
+        return num2;
+    } else {
+        return num3;
+    }
+}
+
+/* --------------- Exercício 4 --------------- */
+// Faça um programa que, dado um valor recebido como parâmetro,
+// retorne "positive" se esse valor for positivo, "negative"
+// se for negativo e "zero", caso contrário.
+
+function positivoNegativo(valor){
+    if (valor > 0){
+        return 'positive';
+    } else if (valor < 0){
+        return 'negative';
+    } else {
+        return 'zero';
+    }
+}
+
+/* --------------- Exercício 5 --------------- */
+// Faça um programa que receba três constantes com os valores dos
+// três ângulos internos de um triângulo. Retorne true se os ângulos
+// representarem os ângulos de um triângulo e false, caso contrário.
+// Se algum ângulo for inválido o programa deve retornar uma mensagem de erro.
+
+function triangulo (alfa, beta, gama){
+    let somaAngulos = alfa + beta + gama;
+    if (alfa >= 180 || beta >= 180 || gama >= 180) {
+        return 'Um triângulo não pode ter um ângulo maior ou igual a 180°';
+    } else if (alfa < 0 || beta < 0 || gama < 0) {
+        return 'Não existe ângulo negativo em um triângulo';
+    } else if (somaAngulos === 180){
+        return 'true';
+    } else if (somaAngulos < 180 || somaAngulos > 180) {
+        return 'false';
+    }
 }

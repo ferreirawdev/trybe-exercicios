@@ -37,15 +37,15 @@ O programa conta com mais de 1.500 horas de aulas online ao vivo, aborda introdu
 - :heavy_check_mark: 2: _JavaScript - Array e loop For_
 - :heavy_check_mark: 3: _JavaScript - Lógica de Programação e Algoritmos_
 - :heavy_check_mark: 4: _JavaScript - Objetos e funções_
-- [ ] 5: _[Projeto - Playground Functions]()_
+- :heavy_check_mark: 5: _[Projeto - Playground Functions](https://github.com/tryber/sd-020-b-project-playground-functions/pull/166)_
 
 #### Bloco 5: JavaScript: DOM, Eventos e Web Storage
 
-- [ ] 1: _JavaScript - DOM e seletores_
-- [ ] 2: _JavaScript - Trabalhando com elementos_
-- [ ] 3: _JavaScript - Eventos_
-- [ ] 4: _JavaScript - Web Storage_
-- [ ] 5: _Fundamentos - JavaScript - Projetos_
+- :heavy_check_mark: 1: _JavaScript - DOM e seletores_
+- :heavy_check_mark: 2: _JavaScript - Trabalhando com elementos_
+- :heavy_check_mark: 3: _JavaScript - Eventos_
+- :heavy_check_mark: 4: _JavaScript - Web Storage_
+- :heavy_check_mark: 5: _Fundamentos - JavaScript - Projetos_
 - [ ] 5: _[Projeto - Arte com Pixels]()_
 - [ ] 6: _[Projeto - Lista de tarefas]()_
 - [ ] 7: _[Projeto - Meme Generator]()_

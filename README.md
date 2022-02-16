@@ -46,8 +46,8 @@ O programa conta com mais de 1.500 horas de aulas online ao vivo, aborda introdu
 - :heavy_check_mark: 3: _JavaScript - Eventos_
 - :heavy_check_mark: 4: _JavaScript - Web Storage_
 - :heavy_check_mark: 5: _Fundamentos - JavaScript - Projetos_
-- [ ] 5: _[Projeto - Arte com Pixels]()_
-- [ ] 6: _[Projeto - Lista de tarefas]()_
+- [ ] 5: _[Projeto - Arte com Pixels](https://github.com/tryber/sd-020-b-project-pixels-art/pull/148)_
+- [ ] 6: _[Projeto - Lista de tarefas](https://github.com/tryber/sd-020-b-project-todo-list/pull/28)_
 - [ ] 7: _[Projeto - Meme Generator]()_
 - [ ] 7: _[Projeto - Adivinhe a Cor]()_
 - [ ] 7: _[Projeto - Carta Misteriosa]()_

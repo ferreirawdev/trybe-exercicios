@@ -1,0 +1,7 @@
+- <!--:heavy_check_mark:--> Dia 01 (18/02): HTML & CSS - Forms
+- <!--:heavy_check_mark:--> Dia 02 (21/02): Bibliotecas JavaScript e Frameworks CSS
+- <!--:heavy_check_mark:--> Dia 03 (22/02): Introdução - CSS Flexbox
+- <!--:heavy_check_mark:--> Dia 03 (22/02): CSS Flexbox - Parte 1
+- <!--:heavy_check_mark:--> Dia 04 (23/02): CSS Flexbox - Parte 2
+- <!--:heavy_check_mark:--> Dia 05 (24/02): CSS Responsivo - Mobile First
+- <!--:heavy_check_mark:--> Dia 06 (25/02): Projeto - Trybewarts

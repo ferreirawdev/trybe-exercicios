@@ -46,18 +46,18 @@ O programa conta com mais de 1.500 horas de aulas online ao vivo, aborda introdu
 - :heavy_check_mark: 3: _JavaScript - Eventos_
 - :heavy_check_mark: 4: _JavaScript - Web Storage_
 - :heavy_check_mark: 5: _Fundamentos - JavaScript - Projetos_
-- [ ] 5: _[Projeto - Arte com Pixels](https://github.com/tryber/sd-020-b-project-pixels-art/pull/148)_
-- [ ] 6: _[Projeto - Lista de tarefas](https://github.com/tryber/sd-020-b-project-todo-list/pull/28)_
+- :heavy_check_mark: 5: _[Projeto - Arte com Pixels](https://github.com/tryber/sd-020-b-project-pixels-art/pull/148)_
+- :heavy_check_mark: 6: _[Projeto - Lista de tarefas](https://github.com/tryber/sd-020-b-project-todo-list/pull/28)_
 - [ ] 7: _[Projeto - Meme Generator]()_
 - [ ] 7: _[Projeto - Adivinhe a Cor]()_
 - [ ] 7: _[Projeto - Carta Misteriosa]()_
 
 #### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
 
-- [ ] 1: _HTML & CSS - Forms_
-- [ ] 2: _Bibliotecas JavaScript e Frameworks CSS_
-- [ ] 3: _Introdução - CSS Flexbox_
-- [ ] 3: _CSS Flexbox - Part 1_
+- :heavy_check_mark: 1: _HTML & CSS - Forms_
+- :heavy_check_mark: 2: _Bibliotecas JavaScript e Frameworks CSS_
+- :heavy_check_mark: 3: _Introdução - CSS Flexbox_
+- :heavy_check_mark: 3: _CSS Flexbox - Part 1_
 - [ ] 4: _CSS Flexbox - Part 2_
 - [ ] 5: _CSS Responsivo - Mobile First_
 - [ ] 6: _[Projeto - Trybewarts]()_

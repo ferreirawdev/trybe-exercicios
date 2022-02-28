@@ -11,13 +11,19 @@
       integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
       crossorigin="anonymous"
     />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.jsdelivr.net/npm/pikaday/css/pikaday.css"
+    />
+    <script src="https://unpkg.com/just-validate@latest/dist/just-validate.production.min.js"></script>
     <title>Formulário Trybe Trip</title>
   </head>
   <body>
     <header>
-      <h1>Concorra a uma viagem</h1>
+      <h1 class="h1">Concorra a uma viagem</h1>
     </header>
-    <form class="js-form">
+    <form class="js-form" id="form">
       <fieldset class="form-group">
         <label class="form-label" for="full-name"
           >Nome:
@@ -99,7 +105,7 @@
         <br />
         <label class="form-label" for="date"
           >Qual a melhor data para realizar sua viagem?
-          <input class="form-control" id="date" type="date" />
+          <input class="form-control" id="date" type="text" />
         </label>
         <br />
         <label class="form-label" for="oportunities">
@@ -130,10 +136,12 @@
       >
         Participar
       </button>
-      <button class="btn btn-danger clear-button" id="reset-btn" type="reset">
+      <button class="btn btn-danger clear-button" id="clear-btn" type="reset">
         Limpar
       </button>
     </form>
+    <script src="moment.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/pikaday/pikaday.js"></script>
     <script src="exercise.js"></script>
   </body>
 </html>

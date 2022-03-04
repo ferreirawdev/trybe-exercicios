@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 3</title>
+    <style>
+      * {
+        margin: 0;
+      }
+
+      body {
+        display: flex;
+        align-items: center;
+      }
+
+      #test {
+        margin: 20px 5px 0 30px;
+      }
+
+      #text-container {
+        border: 1px solid black;
+        text-align: center;
+        height: 25px;
+        width: 25px;
+        margin-top: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <button id="test">Cada click aumenta o número &#8605;</button>
+    <div id="text-container">
+      <span id ="text">0</span>
+    </div>
+  </body>
+  <script>
+    let clickCount = 0;
+    let clicksSoFar = document.querySelector("#text");
+
+    document.querySelector("#test").addEventListener("click", () => clicksSoFar.innerHTML = clickCount += 1);
+  </script> 
+  </body>
+</html>

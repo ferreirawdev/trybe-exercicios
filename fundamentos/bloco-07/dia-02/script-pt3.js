@@ -41,9 +41,12 @@ const totalNumberOfStudents = (object) => {
   return total;
 };
 
+const getValueByNumber = (object, number) => Object.values(object)[number];
+
 addNewKey(lesson2, "turno", "noite");
 console.log(listKeys(lesson2));
 console.log(sizeOfObject(lesson2));
 console.log(listValues(lesson2));
 console.log(allLessons);
 console.log(totalNumberOfStudents(allLessons));
+console.log(getValueByNumber);

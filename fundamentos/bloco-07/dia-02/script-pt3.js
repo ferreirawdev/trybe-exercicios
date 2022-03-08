@@ -28,10 +28,22 @@ const sizeOfObject = (object) => Object.keys(object).length;
 
 const listValues = (object) => Object.values(object);
 
-const allLessons = (object) => Object.assign({}, { lesson1, lesson2, lesson3 });
+const allLessons = Object.assign({}, { lesson1, lesson2, lesson3 });
+
+const totalNumberOfStudents = (object) => {
+  let total = 0;
+  const array = Object.keys(object);
+
+  for (let i = 0; i < array.length; i += 1) {
+    total += object[array[i]].numeroEstudantes;
+  }
+
+  return total;
+};
 
 addNewKey(lesson2, "turno", "noite");
 console.log(listKeys(lesson2));
 console.log(sizeOfObject(lesson2));
 console.log(listValues(lesson2));
 console.log(allLessons);
+console.log(totalNumberOfStudents(allLessons));

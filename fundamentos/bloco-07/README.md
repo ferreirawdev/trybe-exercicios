@@ -1,4 +1,4 @@
 - :heavy_check_mark: Dia 01 (03/03): JavaScript ES6 - let, const, arrow functions e template literals
 - :heavy_check_mark: Dia 02 (04/03): JavaScript ES6 - Fluxo de exceção de objetos
-- <!-- :heavy_check_mark: --> Dia 03 (07/03): Primeiros passos em Jest
+- :heavy_check_mark: Dia 03 (07/03): Primeiros passos em Jest
 - <!-- :heavy_check_mark: --> Dia 04 (08/03): Projeto - JavaScript Testes Unitários

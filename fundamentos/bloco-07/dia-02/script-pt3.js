@@ -24,5 +24,8 @@ const addNewKey = (object, key, value) => {
 
 const listKeys = (object) => Object.keys(object);
 
+const sizeOfObject = (object) => Object.keys(object).length;
+
 addNewKey(lesson2, "turno", "noite");
 console.log(listKeys(lesson2));
+console.log(sizeOfObject(lesson2));

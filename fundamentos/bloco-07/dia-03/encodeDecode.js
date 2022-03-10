@@ -36,6 +36,11 @@ function decode(string) {
     4: "o",
     5: "u",
   };
-  
+
   return mapString(map, string);
 }
+
+module.exports = {
+  encode,
+  decode,
+};

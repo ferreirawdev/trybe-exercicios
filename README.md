@@ -67,11 +67,11 @@ O programa conta com mais de 1.500 horas de aulas online ao vivo, aborda introdu
 - :heavy_check_mark: 1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - :heavy_check_mark: 2: _JavaScript ES6 - Fluxo de exceção e Objetos_
 - :heavy_check_mark: 3: _Primeiros passos em Jest_
-- [ ] 4: _[Projeto - JavaScript Testes Unitários]()_
+- [ ] 4: _[Projeto - JavaScript Testes Unitários](https://github.com/tryber/sd-020-b-project-js-unit-tests/pull/123)_
 
 #### Bloco 8: Higher Order Functions do JavaScript ES6
 
-- [ ] 1: _JavaScript ES6 -introdução a Higher Order Functions_
+- :heavy_check_mark: 1: _JavaScript ES6 -introdução a Higher Order Functions_
 - [ ] 2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
 - [ ] 3: _JavaScript ES6 - Higher Order Functions - map e filter_
 - [ ] 4: _JavaScript ES6 - Higher Order Functions - reduce_

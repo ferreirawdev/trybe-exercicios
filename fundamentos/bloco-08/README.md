@@ -1,0 +1,6 @@
+- :heavy_check_mark: Dia 01 (09/03): JavaScrip ES6 - Introdução a Higher Order Functions
+- <!-- :heavy_check_mark: --> Dia 02 (10/03): JavaScrip ES6 - Higher Order Functions - forEach, find, some, every, sort
+- <!-- :heavy_check_mark: --> Dia 03 (11/03): JavaScrip ES6 - Higher Order Functions - map e filter
+- <!-- :heavy_check_mark: --> Dia 04 (14/03): JavaScrip ES6 - Higher Order Functions - reduce
+- <!-- :heavy_check_mark: --> Dia 05 (15/03): JavaScrip ES6 - spread operator, parâmetro rest, destructuring e mais
+- <!-- :heavy_check_mark: --> Dia 06 (16/03): Projeto - Zoo Functions

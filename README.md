@@ -66,7 +66,7 @@ O programa conta com mais de 1.500 horas de aulas online ao vivo, aborda introdu
 
 - :heavy_check_mark: 1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - :heavy_check_mark: 2: _JavaScript ES6 - Fluxo de exceção e Objetos_
-- [ ] 3: _Primeiros passos em Jest_
+- :heavy_check_mark: 3: _Primeiros passos em Jest_
 - [ ] 4: _[Projeto - JavaScript Testes Unitários]()_
 
 #### Bloco 8: Higher Order Functions do JavaScript ES6

@@ -1,5 +1,26 @@
 {
   "dependencies": {
     "moment": "^2.29.1"
-  }
+  },
+  "name": "trybe-exercicios",
+  "description": "Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Wellington Ferreira](https://www.linkedin.com/in/ferreiraw/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferreirawdev/trybeExercicios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferreirawdev/trybeExercicios/issues"
+  },
+  "homepage": "https://github.com/ferreirawdev/trybeExercicios#readme"
 }

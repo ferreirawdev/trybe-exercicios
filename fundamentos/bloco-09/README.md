@@ -1,0 +1,4 @@
+- <!-- :heavy_check_mark: --> Dia 01 (21/03): JavaScript Assíncrono e Callbacks
+- <!-- :heavy_check_mark: --> Dia 02 (22/03): JavaScript Assíncrono - Fetch API e async/await
+- <!-- :heavy_check_mark: --> Dia 03 (23/03): Jest - Testes Assíncronos
+- <!-- :heavy_check_mark: --> Dia 04 (24/03): Projeto - Carrinho de Compras

@@ -39,6 +39,7 @@ Suponha que você tenha uma operação `A` que gaste muito tempo, e que você te
 Com assincronicidade, a operação `A` começa a executar e, logo em seguida, `B` também, sem ter que esperar `A` terminar.
 
 Essa forma de trabalho é natural, e você faz isso o tempo todo sem perceber! Um exemplo clássico: são 20h de uma segunda-feira, você está em casa com fome e decide pedir uma pizza. 🍕 Você fica esperando, sem fazer nada, enquanto a pizza não chega? Você pode fazer o que quiser nesse meio tempo, como escutar música ou ver vídeos no _YouTube_, por exemplo. E assim que a pizza chegar, você dedica seu tempo para poder jantar.
+
 Nesse exemplo da pizza, o ato de pedir a pizza corresponde a uma operação assíncrona, e os atos de escutar música e ver vídeos no _YouTube_ são exemplos de operações que independem de pedir a pizza.
 
 Além disso, você também vai aprender como reaproveitar códigos no Jest. Lembre-se que repetir código é ruim, pois você pode se enganar ao tentar replicar exatamente o mesmo código, além de escrever mais do que precisa. Pensando neste problema, no conteúdo de hoje, você vai aprender algumas formas de configurar e escrever testes, evitando repetições e gerando um código mais limpo.

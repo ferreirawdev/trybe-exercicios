@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "moment": "^2.29.1"
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.7"
   },
   "name": "trybe-exercicios",
   "description": "Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Wellington Ferreira](https://www.linkedin.com/in/ferreiraw/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:",
